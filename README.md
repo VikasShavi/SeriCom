@@ -1,5 +1,6 @@
 # **SeriCom**  
 ## **Introduction**
+
 - Rust-based sender and receiver for efficient file transfers using serial ports. 
 Handles errors such as 
   - when the sender transmits data before the receiver starts, 
@@ -7,7 +8,8 @@ Handles errors such as
   
 - Designed for continuous operation, the sender and receiver can run indefinitely, allowing users to simply copy files into a designated directory for transfer. 
 
-- Ideal for secure environments where internet access is restricted/closed to protect systems.
+> [!tip]
+> Ideal for secure environments where internet access is restricted/closed to protect systems.
   
 ## **Features**
    - Rust-based implementation.
@@ -130,7 +132,13 @@ Handles errors such as
 
 4. **Example**
 
-![](https://drive.google.com/file/d/1zjkLHDSOKQe8rDcYyXQ_ISBpCT33jNVG/view?usp=sharing)
+
+
+
+https://github.com/user-attachments/assets/3d654f5c-9578-4d14-89df-db78ca90ace6
+
+
+
 
 ### Technical Details
 
@@ -168,7 +176,7 @@ Thank you for considering contributing to this project! Contributions, whether t
 - **Create a pull request (PR)**: Open a pull request from your branch to the main repository. Add a clear description of what changes were made and why.
 
 ## **License**
-- MIT License
+- GPLv3
 
 ## **Contact**
-  - Email: vikasvivek2000@gmail.com
+- Email: vikasvivek2000@gmail.com
