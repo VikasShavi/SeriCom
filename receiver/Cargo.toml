@@ -1,0 +1,9 @@
+[package]
+name = "receiver"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+mio = "0.8"
+mio-serial = "5.0.5"
+chrono = "0.4.38"
